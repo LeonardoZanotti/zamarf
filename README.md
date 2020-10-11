@@ -20,7 +20,7 @@ $ git clone https://github.com/LeonardoZanotti/zamarf.git
 $ cd zamarf/
 
 # Running the program
-$ python3 zabage.py file1.extension file2.extension
+$ python3 zamarf.py file1.extension file2.extension
 
 Available extensions: html, txt, pdf and md.
 ```
